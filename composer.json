@@ -1,0 +1,11 @@
+{
+    "name": "taczmand/oktatasi_hivatal",
+    "description": "Demo task for Oktatási Hivatal",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Taczmand\\OktatasiHivatal\\": "src/"
+        }
+    },
+    "require": {}
+}
